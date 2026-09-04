@@ -1,0 +1,102 @@
+[
+    {
+        "especialidadId": 1,
+        "nombreEspecialidad": "Cardiología",
+        "activa": true
+    },
+    {
+        "especialidadId": 2,
+        "nombreEspecialidad": "Dermatología",
+        "activa": true
+    },
+    {
+        "especialidadId": 3,
+        "nombreEspecialidad": "Pediatría",
+        "activa": true
+    },
+    {
+        "especialidadId": 4,
+        "nombreEspecialidad": "Neurología",
+        "activa": false
+    },
+    {
+        "especialidadId": 5,
+        "nombreEspecialidad": "Ginecología y Obstetricia",
+        "activa": true
+    },
+    {
+        "especialidadId": 6,
+        "nombreEspecialidad": "Traumatología y Ortopedia",
+        "activa": true
+    },
+    {
+        "especialidadId": 7,
+        "nombreEspecialidad": "Oftalmología",
+        "activa": false
+    },
+    {
+        "especialidadId": 8,
+        "nombreEspecialidad": "Psiquiatría",
+        "activa": true
+    },
+    {
+        "especialidadId": 9,
+        "nombreEspecialidad": "Otorrinolaringología",
+        "activa": true
+    },
+    {
+        "especialidadId": 10,
+        "nombreEspecialidad": "Gastroenterología",
+        "activa": true
+    },
+    {
+        "especialidadId": 11,
+        "nombreEspecialidad": "Endocrinología",
+        "activa": true
+    },
+    {
+        "especialidadId": 12,
+        "nombreEspecialidad": "Urología",
+        "activa": true
+    },
+    {
+        "especialidadId": 13,
+        "nombreEspecialidad": "Neumonología",
+        "activa": false
+    },
+    {
+        "especialidadId": 14,
+        "nombreEspecialidad": "Oncología",
+        "activa": true
+    },
+    {
+        "especialidadId": 15,
+        "nombreEspecialidad": "Nefrología",
+        "activa": true
+    },
+    {
+        "especialidadId": 16,
+        "nombreEspecialidad": "Reumatología",
+        "activa": false
+    },
+    {
+        "especialidadId": 17,
+        "nombreEspecialidad": "Hematología",
+        "activa": true
+    },
+    {
+        "especialidadId": 18,
+        "nombreEspecialidad": "Infectología",
+        "activa": true
+    },
+    {
+        "especialidadId": 19,
+        "nombreEspecialidad": "Medicina General",
+        "activa": true
+    },
+    {
+        "especialidadId": 20,
+        "nombreEspecialidad": "Alergología e Inmunología",
+        "activa": true
+    }
+]

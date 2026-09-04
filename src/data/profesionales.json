@@ -1,0 +1,182 @@
+[
+    {
+        "profesionalId": 1,
+        "nombre": "Dra. Sofía Martínez",
+        "especialidad": "Cardiología",
+        "activo": true
+    },
+    {
+        "profesionalId": 2,
+        "nombre": "Dr. Carlos Gómez",
+        "especialidad": "Dermatología",
+        "activo": true
+    },
+    {
+        "profesionalId": 3,
+        "nombre": "Dra. Lucía Fernández",
+        "especialidad": "Pediatría",
+        "activo": true
+    },
+    {
+        "profesionalId": 4,
+        "nombre": "Dr. Mateo Rodríguez",
+        "especialidad": "Neurología",
+        "activo": false
+    },
+    {
+        "profesionalId": 5,
+        "nombre": "Dra. Camila López",
+        "especialidad": "Ginecología y Obstetricia",
+        "activo": true
+    },
+    {
+        "profesionalId": 6,
+        "nombre": "Dr. Alejandro Díaz",
+        "especialidad": "Traumatología y Ortopedia",
+        "activo": true
+    },
+    {
+        "profesionalId": 7,
+        "nombre": "Dra. Mariana Pérez",
+        "especialidad": "Oftalmología",
+        "activo": false
+    },
+    {
+        "profesionalId": 8,
+        "nombre": "Dr. Javier Sánchez",
+        "especialidad": "Psiquiatría",
+        "activo": true
+    },
+    {
+        "profesionalId": 9,
+        "nombre": "Dra. Valentina Romero",
+        "especialidad": "Otorrinolaringología",
+        "activo": true
+    },
+    {
+        "profesionalId": 10,
+        "nombre": "Dr. Diego Torres",
+        "especialidad": "Gastroenterología",
+        "activo": true
+    },
+    {
+        "profesionalId": 11,
+        "nombre": "Dra. Natalia Alvarez",
+        "especialidad": "Endocrinología",
+        "activo": true
+    },
+    {
+        "profesionalId": 12,
+        "nombre": "Dr. Gabriel Ruiz",
+        "especialidad": "Urología",
+        "activo": true
+    },
+    {
+        "profesionalId": 13,
+        "nombre": "Dra. Paula Benítez",
+        "especialidad": "Neumonología",
+        "activo": false
+    },
+    {
+        "profesionalId": 14,
+        "nombre": "Dr. Andrés Castro",
+        "especialidad": "Oncología",
+        "activo": true
+    },
+    {
+        "profesionalId": 15,
+        "nombre": "Dra. Isabella Molina",
+        "especialidad": "Nefrología",
+        "activo": true
+    },
+    {
+        "profesionalId": 16,
+        "nombre": "Dr. Fernando Ortiz",
+        "especialidad": "Reumatología",
+        "activo": false
+    },
+    {
+        "profesionalId": 17,
+        "nombre": "Dra. Daniela Silva",
+        "especialidad": "Hematología",
+        "activo": true
+    },
+    {
+        "profesionalId": 18,
+        "nombre": "Dr. Lucas Morales",
+        "especialidad": "Infectología",
+        "activo": true
+    },
+    {
+        "profesionalId": 19,
+        "nombre": "Dra. Victoria Gutiérrez",
+        "especialidad": "Medicina General",
+        "activo": true
+    },
+    {
+        "profesionalId": 20,
+        "nombre": "Dr. Santiago Ramos",
+        "especialidad": "Alergología e Inmunología",
+        "activo": true
+    },
+    {
+        "profesionalId": 21,
+        "nombre": "Dra. Elena Rossi",
+        "especialidad": "Cardiología",
+        "activo": true
+    },
+    {
+        "profesionalId": 22,
+        "nombre": "Dr. Hugo Navarro",
+        "especialidad": "Pediatría",
+        "activo": false
+    },
+    {
+        "profesionalId": 23,
+        "nombre": "Dra. Beatriz Medina",
+        "especialidad": "Dermatología",
+        "activo": true
+    },
+    {
+        "profesionalId": 24,
+        "nombre": "Dr. Gonzalo Vargas",
+        "especialidad": "Gastroenterología",
+        "activo": true
+    },
+    {
+        "profesionalId": 25,
+        "nombre": "Dra. Renata Acosta",
+        "especialidad": "Ginecología y Obstetricia",
+        "activo": true
+    },
+    {
+        "profesionalId": 26,
+        "nombre": "Dr. Esteban Blanco",
+        "especialidad": "Neurología",
+        "activo": true
+    },
+    {
+        "profesionalId": 27,
+        "nombre": "Dra. Valeria Herrera",
+        "especialidad": "Psiquiatría",
+        "activo": false
+    },
+    {
+        "profesionalId": 28,
+        "nombre": "Dr. Adrián Castillo",
+        "especialidad": "Traumatología y Ortopedia",
+        "activo": true
+    },
+    {
+        "profesionalId": 29,
+        "nombre": "Dra. Claudia Domínguez",
+        "especialidad": "Medicina General",
+        "activo": true
+    },
+    {
+        "profesionalId": 30,
+        "nombre": "Dr. Manuel Santos",
+        "especialidad": "Oftalmología",
+        "activo": true
+    }
+]
